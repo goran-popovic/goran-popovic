@@ -12,4 +12,4 @@ Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-0A66C2?logo=linkedin&logoColor=fff&labelColor=29292c&style=for-the-badge)](https://www.linkedin.com/in/farscape)
 
-[![Twitter (X)](https://img.shields.io/badge/twitter-1D9BF0?logo=twitter&logoColor=fff&labelColor=29292c&style=for-the-badge)](https://twitter.com/geoligard)
+[![Twitter (X)](https://img.shields.io/badge/twitter (X)-1D9BF0?logo=x&logoColor=fff&labelColor=29292c&style=for-the-badge)](https://twitter.com/geoligard)
